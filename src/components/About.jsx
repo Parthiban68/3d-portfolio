@@ -30,8 +30,10 @@ const About = () => {
       <h2 className={styles.sectionHeadText}>Overview</h2>
     </motion.div>
     <motion.p variants={fadeIn("","",0.1,1)} className='mt-4 text-secondary text-[17px] max-w-3x1 leading-[30px]'>
-    lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta at, repellat veniam deserunt corporis impedit ex cupiditate fugit accusamus ullam minima excepturi expedita quasi hic nobis eum consectetur laboriosam necessitatibus!
-    Pariatur sit, odit deleniti id totam nos
+    Motivated and detail-oriented MERN Stack Developer with a certification from KGisl Micro
+College, aiming to secure an entry-level position to utilize my skills in building efficient and userfriendly web applications. Committed to continuous learning and contributing to innovative
+projects in a collaborative environment.
+
     </motion.p>
 
     <div className='mt-20 flex flex-wrap gap-10' >
